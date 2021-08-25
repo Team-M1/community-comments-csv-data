@@ -122,3 +122,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+not_labeled_csv_data/
+데이터처리.ipynb
