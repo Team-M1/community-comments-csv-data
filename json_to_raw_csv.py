@@ -19,7 +19,7 @@ if file_name.endswith(".json"):
 # 파일 열기
 csv_file = open(f"{file_name}.csv", "w", encoding="utf-8", newline="")
 writer = csv.writer(csv_file)
-writer.writerow(["content", "label"])
+writer.writerow(["content", "labels"])
 
 json_file = open(f"{file_name}.json", "r", encoding="utf-8")
 data = json.load(json_file)["data"]
