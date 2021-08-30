@@ -125,4 +125,4 @@ dmypy.json
 
 
 not_labeled_csv_data/
-데이터처리.ipynb
+*.ipynb
