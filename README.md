@@ -1,4 +1,4 @@
-# 커뮤니티 악플 csv 데이터 모음
+# 커뮤니티 댓글 csv 데이터 모음
 
 [fastAPI 기반 한국어 악플 탐지기](https://github.com/Team-M1/korean-malicious-comments-api)를 만들기 위해 직접 수집한 데이터 모음입니다.
 
